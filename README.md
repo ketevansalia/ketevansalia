@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ketevansalia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ketevan Salia" height="30" width="40" /></a>
+<a href="https://www.instagram.com/saliketia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saliketia" height="30" width="40" /></a>
+<a href="https://twitter.com/KetevanSalia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Ketevan Salia" height="30" width="40" /></a>
+</p>
+
 <!--
 **ketevansalia/ketevansalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
