@@ -1,13 +1,13 @@
 <h1 align="center"; color="blue">Hi 👋, I'm Ketevan Salia</h1>
 
 <!-- contact me -->
-<h3 align="left">📫 How to reach me:</h3>
+<!-- <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ketevansalia/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ketevan Salia" height="30" width="40" /></a>
 <a href="https://www.instagram.com/saliketia/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saliketia" height="30" width="40" /></a>
 <a href="https://twitter.com/KetevanSalia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ketevan Salia" height="30" width="40" /></a>
 </p>
-<hr>
+<hr> -->
 
 <!-- languages -->
 <h3 align="left">Languages and Tools:</h3>
