@@ -1,4 +1,4 @@
-<h1 align="center"; color="blue">Hi 👋, I'm Ketevan Salia</h1>
+<h1 style="align:center;color:blue">Hi 👋, I'm Ketevan Salia</h1>
 
 <!-- contact me -->
 <!-- <h3 align="left">📫 How to reach me:</h3>
@@ -13,12 +13,12 @@
 <!-- Websites -->
 <h3 align="left">My Works</h3>
 <ul align="left">
-    <li> <a style="color:#38baab;text-decoration:none" href="https://ketevansalia.github.io/Omnifood/">Omnifood</a></li>
-    <li style="color:#38baab;text-decoration:none"> <a href="https://ketevansalia.github.io/Alta-Loma-project/">Alta Loma</a></li>
-    <li> <a href="https://ketevansalia.github.io/pig-game/">Pig Game</a></li>
-    <li> <a href="https://tbcxusaid-react-ketevansalia.netlify.app/">TBC x USAID</a></li>
-    <li> <a href="https://ketevansalia.github.io/florist-landing-page.github.io/">Florist</a></li>
-    <li> <a href="https://ketevansalia.github.io/To-do-list/">To Do List</a></li>
+    <li> <a style="color:#38baab;text-decoration:none" href="https://ketevansalia.github.io/Omnifood/" target="_blank">Omnifood</a></li>
+    <li style="color:#38baab;text-decoration:none"> <a href="https://ketevansalia.github.io/Alta-Loma-project/" target="_blank">Alta Loma</a></li>
+    <li> <a href="https://ketevansalia.github.io/pig-game/" target="_blank">Pig Game</a></li>
+    <li> <a href="https://tbcxusaid-react-ketevansalia.netlify.app/" target="_blank">TBC x USAID</a></li>
+    <li> <a href="https://ketevansalia.github.io/florist-landing-page.github.io/" target="_blank">Florist</a></li>
+    <li> <a href="https://ketevansalia.github.io/To-do-list/" target="_blank">To Do List</a></li>
 </ul>
 
 
