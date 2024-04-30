@@ -11,9 +11,9 @@
 
 
 <!-- Websites -->
-<h3 align="left">:</h3>
-<ul>
-    <li> <a href="https://ketevansalia.github.io/Omnifood/">Omnifood</a></li>
+<h3 align="left">My Works</h3>
+<ul align="left">
+    <li> <a href="https://ketevansalia.github.io/Omnifood/" text-decoration="none" color="#39bdae">Omnifood</a></li>
     <li> <a href="https://ketevansalia.github.io/Alta-Loma-project/">Alta Loma</a></li>
     <li> <a href="https://ketevansalia.github.io/pig-game/">Pig Game</a></li>
     <li> <a href="https://tbcxusaid-react-ketevansalia.netlify.app/">TBC x USAID</a></li>
