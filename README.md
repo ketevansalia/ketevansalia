@@ -9,6 +9,20 @@
 </p>
 <hr> -->
 
+
+<!-- Websites -->
+<h3 align="left">:</h3>
+<ul>
+    <li> <a href="https://ketevansalia.github.io/Omnifood/">Omnifood</a></li>
+    <li> <a href="https://ketevansalia.github.io/Alta-Loma-project/">Alta Loma</a></li>
+    <li> <a href="https://ketevansalia.github.io/pig-game/">Pig Game</a></li>
+    <li> <a href="https://tbcxusaid-react-ketevansalia.netlify.app/">TBC x USAID</a></li>
+    <li> <a href="https://ketevansalia.github.io/florist-landing-page.github.io/">Florist</a></li>
+    <li> <a href="https://ketevansalia.github.io/To-do-list/">To Do List</a></li>
+</ul>
+
+
+
 <!-- languages -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
