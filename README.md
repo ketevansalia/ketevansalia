@@ -13,8 +13,8 @@
 <!-- Websites -->
 <h3 align="left">My Works</h3>
 <ul align="left">
-    <li style="color:#39bdae; text-decoration:none"> <a href="https://ketevansalia.github.io/Omnifood/"  >Omnifood</a></li>
-    <li> <a href="https://ketevansalia.github.io/Alta-Loma-project/">Alta Loma</a></li>
+    <li> <a style="color:#38baab;text-decoration:none" href="https://ketevansalia.github.io/Omnifood/">Omnifood</a></li>
+    <li style="color:#38baab;text-decoration:none"> <a href="https://ketevansalia.github.io/Alta-Loma-project/">Alta Loma</a></li>
     <li> <a href="https://ketevansalia.github.io/pig-game/">Pig Game</a></li>
     <li> <a href="https://tbcxusaid-react-ketevansalia.netlify.app/">TBC x USAID</a></li>
     <li> <a href="https://ketevansalia.github.io/florist-landing-page.github.io/">Florist</a></li>
